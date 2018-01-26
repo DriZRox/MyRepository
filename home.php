@@ -14,6 +14,14 @@
   <a href="item">Item 7</a>
   <a href="item">Item 8</a>
   <a href="login">Login</a>
+  <a href="item">Item</a>
+  <a href="item">Item</a>
+  <div>
+    Rave has edited this part
+    <a href="item">Item</a>
+  </div>
+  <a href="item">Item</a>
+  <a href="item">Item</a>
 </sidebar>
 
 </body>
