@@ -7,10 +7,10 @@
 <sidebar>
   <a href="item">Item</a>
   <a href="item">Item</a>
-  <a href="item">Item</a>
-  <a href="item">Item</a>
-  <a href="item">Item</a>
-  <a href="item">Item</a>
+  <div>
+    Rave has edited this part
+    <a href="item">Item</a>
+  </div>
   <a href="item">Item</a>
   <a href="item">Item</a>
 </sidebar>
